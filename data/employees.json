@@ -1,0 +1,102 @@
+[
+  {
+    "id": "E001",
+    "name": "Rachel Morgan",
+    "title": "Senior Accounting Professional",
+    "bio": "Detail-oriented Senior Accountant with 8 years of experience managing full-cycle accounting and month-end close for mid-to-large organizations. Strong expertise in US GAAP, reconciliations, and financial reporting. Experienced in manufacturing and professional services environments. Proven ability to improve processes and mentor junior team members.",
+    "skills": ["US GAAP", "Month-end Close", "Financial Reporting", "Reconciliations", "ERP"],
+    "available_from": "2026-09-15",
+    "location": "Remote / Chicago",
+    "level": "Senior"
+  },
+  {
+    "id": "E002",
+    "name": "Daniel Kim",
+    "title": "Accounting Manager",
+    "bio": "Accounting Manager with 10 years of progressive experience. Expert in leading close processes, technical accounting research, and audit coordination. Strong background in ERP implementations (SAP & Oracle) and internal controls. Excellent leadership and stakeholder communication skills.",
+    "skills": ["US GAAP", "Technical Accounting", "Audit Support", "Month-end Close", "Team Leadership"],
+    "available_from": "2026-10-10",
+    "location": "New York",
+    "level": "Manager"
+  },
+  {
+    "id": "E003",
+    "name": "Sophia Patel",
+    "title": "Senior Accountant",
+    "bio": "Senior Accountant with 6 years of experience in financial reporting and close activities. Skilled in complex reconciliations, fixed assets, and intercompany accounting. Comfortable working in fast-paced professional services settings and supporting process improvement initiatives.",
+    "skills": ["Financial Reporting", "Reconciliations", "Fixed Assets", "Intercompany", "Excel"],
+    "available_from": "2026-09-01",
+    "location": "Remote",
+    "level": "Senior"
+  },
+  {
+    "id": "E004",
+    "name": "Michael Torres",
+    "title": "Staff Accountant",
+    "bio": "Staff Accountant with 3.5 years of experience supporting month-end close and general ledger activities. Strong technical skills in Excel and ERP systems. Quick learner with excellent attention to detail and a desire to grow into more senior accounting roles.",
+    "skills": ["General Ledger", "Month-end Close", "Excel", "Reconciliations", "ERP"],
+    "available_from": "2026-08-25",
+    "location": "Remote / Austin",
+    "level": "Junior"
+  },
+  {
+    "id": "E005",
+    "name": "Emily Chen",
+    "title": "Senior Accounting Professional",
+    "bio": "CPA with 7 years of experience in both public accounting and industry. Specialized in technical accounting, revenue recognition, and financial statement preparation. Strong experience supporting external audits and implementing accounting process improvements.",
+    "skills": ["CPA", "US GAAP", "Revenue Recognition", "Audit Support", "Financial Statements"],
+    "available_from": "2026-09-28",
+    "location": "Remote / Seattle",
+    "level": "Senior"
+  },
+  {
+    "id": "E006",
+    "name": "James Okonkwo",
+    "title": "Accounting Supervisor",
+    "bio": "Accounting Supervisor with 9 years of experience overseeing daily accounting operations and close processes. Deep knowledge of internal controls, variance analysis, and ERP systems. Experienced in mentoring teams and driving efficiency in professional services environments.",
+    "skills": ["Month-end Close", "Internal Controls", "Variance Analysis", "Team Leadership", "ERP"],
+    "available_from": "2026-10-20",
+    "location": "Atlanta",
+    "level": "Supervisor"
+  },
+  {
+    "id": "E007",
+    "name": "Aisha Hassan",
+    "title": "Senior Accountant",
+    "bio": "Senior Accountant specializing in complex reconciliations, consolidations, and management reporting. 5+ years of experience working with international entities and multi-currency environments. Strong analytical mindset and process improvement focus.",
+    "skills": ["Consolidations", "Reconciliations", "Multi-currency", "Management Reporting", "US GAAP"],
+    "available_from": "2026-09-10",
+    "location": "Remote",
+    "level": "Senior"
+  },
+  {
+    "id": "E008",
+    "name": "Thomas Berg",
+    "title": "Accounting Professional",
+    "bio": "Accounting Professional with 4 years of experience in general ledger, accounts payable, and financial reporting support. Solid understanding of US GAAP and strong Excel skills. Looking for opportunities to deepen technical accounting knowledge and take on more responsibility.",
+    "skills": ["General Ledger", "Accounts Payable", "Financial Reporting", "Excel", "US GAAP"],
+    "available_from": "2026-09-05",
+    "location": "Remote / Denver",
+    "level": "Mid"
+  },
+  {
+    "id": "E009",
+    "name": "Lisa Nguyen",
+    "title": "Senior Accounting Professional",
+    "bio": "Detail-focused Senior Accountant with 8 years of experience in month-end close, technical research, and audit readiness. Experienced in both corporate and professional services settings. Known for clean reconciliations and proactive identification of accounting issues.",
+    "skills": ["Month-end Close", "Technical Accounting", "Audit Readiness", "Reconciliations", "US GAAP"],
+    "available_from": "2026-10-05",
+    "location": "Boston",
+    "level": "Senior"
+  },
+  {
+    "id": "E010",
+    "name": "Robert Silva",
+    "title": "Accounting Manager",
+    "bio": "Accounting Manager with 11 years of progressive experience leading accounting teams through close cycles and system implementations. Strong background in process redesign, internal controls, and partnering with FP&A. Excellent leadership and communication skills.",
+    "skills": ["Team Leadership", "Month-end Close", "Process Improvement", "Internal Controls", "ERP Implementation"],
+    "available_from": "2026-11-01",
+    "location": "Remote / New York",
+    "level": "Manager"
+  }
+]

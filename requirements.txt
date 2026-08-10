@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+pandas
+python-dateutil
+ollama
+langgraph
+langchain
+langchain-ollama
+langchain-core
