@@ -6,7 +6,7 @@ Step #1: Enter the job description.
 
 Node 1 - Analyze & Filter
 
-The Talent Connector Agent will process the data in the first graph node. Which is to first analyze the job description and then filter out the candidates that have applied to the role. 
+The Talent Connector Agent will process the data in the first graph node, which will analyze the job description and filter out the candidates that have applied to the role. 
 
 In the first guardrail, the Talent & Workforce lead is analyzing the first pass of candidates in this workflow. You don't have to put in this Guardrail. All it does is it just makes sure the Talent & Workforce lead is analyzing the candidate backgrounds before ranking them in the next step. 
 
@@ -26,6 +26,11 @@ Why This Design?
 - Agentic workflow instead of a single LLM call
 - Human-in-the-loop control after the first filtering stage
 - Easily extensible, new nodes can be added to incorporate additional data sources
+
+
+Data Storage:
+
+Currently the system uses local storage. The architecture is modular so it can be easily extended to connect through API with real Workforce Management, HCM systems or HRIS platforms.
 
 
 
