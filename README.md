@@ -6,7 +6,7 @@ Step #1: Enter the job description.
 
 Node 1 - Analyze & Filter
 
-The Talent Connector Agent will process the data in the first graph node, which will analyze the job description and filter out the candidates that have applied to the role. 
+The Talent Connector Agent will process the data in the first graph node, which will analyze_job() description and filter_candidates() that have applied to the role. 
 
 In the first guardrail, the Talent & Workforce lead is analyzing the first pass of candidates in this workflow. You don't have to put in this Guardrail. All it does is it just makes sure the Talent & Workforce lead is analyzing the candidate backgrounds before ranking them in the next step. 
 
@@ -18,7 +18,7 @@ Node 2 - Score & Rank
 
 This analysis is focused on key word relevance, direct working experience, skills match, and availability / timeline alignment. 
 
-The Talent & Workforce lead is able to rankings the candidates, view top matches, and build a report. The decision analytics engine can be modified to add more filters to qualify candidates further. This can be done by embedding new Nodes to analyze Resume, Cover Letter, Workforce System Candidate Bio / Intro Statement + Added Skills + Availability + Leveling + Years of Experience + Rate Card + Internal vs External Candidate + other signals)
+The Talent & Workforce lead is able to score_candidates() rank_and_finalize() to build a report. The decision analytics engine can be modified to add more filters to qualify candidates further. This can be done by embedding new Nodes to analyze Resume, Cover Letter, Workforce System Candidate Bio / Intro Statement + Added Skills + Availability + Leveling + Years of Experience + Rate Card + Internal vs External Candidate + other signals)
 
 
 Why This Design?
