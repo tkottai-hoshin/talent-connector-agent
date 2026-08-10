@@ -1,29 +1,31 @@
-In this workflow, a Talent & Workforce lead has a new role which needs to filled.
-
-Step #1 Enter the duties of the job. 
-
-
-In the first pass, the Agent will go through the first Node in the graphing model. Which is to first analyze the job and then filter out the candidates that have applied to the role. 
-This is the first pass which I just put in place. You don't have to put in this Guardrail. It just makes sure the Talent & Workforce lead is analyzing the candidate backgrounds. At the end of the day
-the micro-decision is still being made in this architecture. 
+2-Step workflow for a Talent & Workforce lead to source candidates
 
 
 
-Looks like the Talent & Workforce Lead is satisfied with the first pass.
+Step #1: Enter the job description. 
+
+Node 1 - Analyze & Filter
+
+The Talent Connector Agent will process the data in the first graph node. Which is to first analyze the job description and then filter out the candidates that have applied to the role. 
+
+In the first guardrail, the Talent & Workforce lead is analyzing the first pass of candidates in this workflow. You don't have to put in this Guardrail. All it does is it just makes sure the Talent & Workforce lead is analyzing the candidate backgrounds before ranking them in the next step. 
 
 
+Step #2: Talent & Workforce Lead is satisfied with the first pass, next Click "Proceed to Full Scoring". 
+
+Node 2 - Score & Rank
+  
+
+This analysis is focused on key word relevance, direct working experience, skills match, and availability / timeline alignment. 
+
+The Talent & Workforce lead is able to rankings the candidates, view top matches, and build a report. The decision analytics engine can be modified to add more filters to qualify candidates further. This can be done by embedding new Nodes to analyze Resume, Cover Letter, Workforce System Candidate Bio / Intro Statement + Added Skills + Availability + Leveling + Years of Experience + Rate Card + Internal vs External Candidate + other signals)
 
 
+Why This Design?
 
-Click button
+- Agentic workflow instead of a single LLM call
+- Human-in-the-loop control after the first filtering stage
+- Easily extensible, new nodes can be added to incorporate additional data sources
 
-
-
-
-
-Now, the next Nodes in the chain are are being executed. This time the analysis is a bit more Objective in terms of key words and direct working experience. 
-
-
-The Talent & Workforce lead is able to see the rankings a bit better, but it gives a better break down of some of the top matches. The decision analytics can easily be modified to qualify candidates further by embedding new Nodes to map with the data (Resume + Cover Letter + Bio + Skills + Availability + Many other pieces of data)
 
 
