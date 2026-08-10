@@ -24,10 +24,6 @@ Click button
 Now, the next Nodes in the chain are are being executed. This time the analysis is a bit more Objective in terms of key words and direct working experience. 
 
 
-The Talent & Workforce lead is able to see the rankings a bit better, but it gives a better break down of some of the top matches, availability, and 
-
-
-
-The decision analytics can easily be modified to qualify candidates further by embedding new Nodes to map with the data (Resume + Cover Letter + Bio + Skills + Availability + Many other pieces of data)
+The Talent & Workforce lead is able to see the rankings a bit better, but it gives a better break down of some of the top matches. The decision analytics can easily be modified to qualify candidates further by embedding new Nodes to map with the data (Resume + Cover Letter + Bio + Skills + Availability + Many other pieces of data)
 
 
