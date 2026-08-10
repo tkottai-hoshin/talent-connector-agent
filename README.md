@@ -37,7 +37,9 @@ Why This Design?
 
 Data Storage:
 
-Currently the system uses local storage. The architecture is modular so it can be easily extended to connect through API with real Workforce Management, HCM systems or HRIS platforms.
+Currently the system uses Private Cloud. 
+
+The architecture is modular so it can be easily extended to connect through API with real Workforce Management, HCM systems or HRIS platforms.
 
 
 
